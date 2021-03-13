@@ -1,0 +1,12 @@
+.pytest_cache
+.vscode
+__pycache__
+.mypy_cache
+.venv
+.py[cod]
+_build
+_static
+_templates
+
+.DS_Store
+*.pdf

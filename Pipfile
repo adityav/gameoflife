@@ -1,0 +1,10 @@
+[requires]
+python_version = "3.7"
+
+[scripts]
+gameoflife = "python driver.py"
+
+[dev-packages]
+pylint = "*"
+pytest = "*"
+
